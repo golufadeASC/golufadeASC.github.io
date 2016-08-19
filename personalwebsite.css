@@ -1,0 +1,24 @@
+img {
+	margin-left: 625px;
+	width: 100px;
+	height: 100px;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+html {
+	background: url("http://3.bp.blogspot.com/-tM17Uq2WMEA/T_ySH5-KgiI/AAAAAAAABXg/OWPX5E8alqY/s1600/tumblr_l736na7lH31qzt4vjo1_500.gif") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+div {
+	text-align: left;
+}
